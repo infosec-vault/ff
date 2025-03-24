@@ -16,7 +16,6 @@ The traditional `cd` workflow requires typing out paths, using tab completion, o
 ## Quick Start
 
 ```bash
-# Install ff (see Installation section below)
 $ ff
 ```
 
@@ -104,7 +103,10 @@ ff stores its configuration in two files:
 
 ## Installation
 
-TBD
+### Quick Installation
+
+```bash
+curl -s https://raw.githubusercontent.com/infosec-vault/ff/refs/heads/main/ff.sh | sh
 
 ## How It Works
 
@@ -119,3 +121,4 @@ This scoring system allows ff to present a highly personalized view of your file
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+```
