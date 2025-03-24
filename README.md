@@ -107,6 +107,18 @@ ff stores its configuration in two files:
 
 ```bash
 curl -s https://raw.githubusercontent.com/infosec-vault/ff/refs/heads/main/ff.sh | sh
+```
+
+### Build From Source
+
+If you want to build ff from source, you must have cargo installed.
+
+```bash
+git clone https://github.com/infosec-vault/ff
+cd ff
+chmod +x install.sh
+./install.sh
+```
 
 ## How It Works
 
@@ -121,4 +133,7 @@ This scoring system allows ff to present a highly personalized view of your file
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+```
+
 ```
