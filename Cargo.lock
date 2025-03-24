@@ -138,7 +138,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "ff2"
+name = "ff"
 version = "0.1.0"
 dependencies = [
  "crossterm",
