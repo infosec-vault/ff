@@ -133,7 +133,3 @@ This scoring system allows ff to present a highly personalized view of your file
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-```
-
-```
