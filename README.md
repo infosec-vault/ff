@@ -104,7 +104,7 @@ ff stores its configuration in two files:
 
 ## Installation
 
-(TBD)
+TBD
 
 ## How It Works
 
